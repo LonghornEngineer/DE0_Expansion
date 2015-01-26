@@ -6,6 +6,8 @@ This template fits the 2 40Pin GPIO expansion headers for the [Altera DE0 Develo
 
 Files are for Eagle V6.0+ 
 
+***
 ![Layout Image](Layout.png)
 
-![Schematic Image](https://raw.githubusercontent.com/LonghornEngineer/DE0_Expansion/master/Schematic.png)
+***
+![Schematic Image](Schematic.png)
